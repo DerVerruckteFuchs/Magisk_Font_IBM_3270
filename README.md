@@ -13,8 +13,8 @@ https://github.com/rbanffy/3270font
 
 * Galaxy Tab Pro 8.4 (a.k.a. mondrianwifi/SMT-320) with LineageOS 13.0 (Android 6.0.1)
 
+## Changelog
+* 1.0: *initial release*
+
 ## Screenshot:
 <img src="Screenshot.png">
-
-## Changelog
-initial test version
