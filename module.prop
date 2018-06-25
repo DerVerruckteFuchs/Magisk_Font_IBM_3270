@@ -1,0 +1,7 @@
+id=IBM-3270
+name=IBM 3270
+version=0.1-test
+versionCode=1
+author=DerVerruckteFuchs
+description=Systemlessly apply the IBM 3270 font
+minMagisk=1500
